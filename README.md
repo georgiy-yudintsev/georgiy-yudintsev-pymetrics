@@ -1,0 +1,4 @@
+- 👋 Hi, my name is Georgiy Yudintsev and I am an Analytics Engineer at Pymetrics.
+- 👀 I’m interested in warehouse modeling, data science and analytics.
+- 🌱 I’m currently learning about warehouse designs.
+- 📫 Reach me at georgiy.yudintsev@pymetrics.com.
